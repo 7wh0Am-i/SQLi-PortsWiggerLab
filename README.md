@@ -21,7 +21,7 @@ This repo contains solved labs and walkthroughs. Each lab is placed under `labs/
 
 | Lab folder | Lab name | Short description |
 |------------|----------|-------------------|
-| `sql-injection-101` | Lab: [SQL injection vulnerability](https://www.example.com) in WHERE clause allowing retrieval of hidden data | Exploiting SQLi to extract a username/password from a sample app. [Lab Link](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)  |
+| `Lab#1` | Lab: [SQL injection vulnerability](https://github.com/7wh0Am-i/SQLi-PortsWiggerLab/tree/main/Labs/Lab%231) in WHERE clause allowing retrieval of hidden data | Exploiting SQLi to extract a username/password from a sample app. [Lab Link](https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data)  |
 | `port-swagger-1` | Port Swagger Lab | Recon + abusing exposed Swagger UI to find hidden endpoints. |
 
 
